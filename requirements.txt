@@ -1,0 +1,11 @@
+cryptg==0.2.post2
+psutil==5.8.0
+Telethon
+TgCrypto==1.2.3
+urllib3==1.26.5
+Pyrogram
+speedtest-cli
+python-dotenv
+requests
+https://github.com/Ripeey/Conversation-Pyrogram/archive/refs/heads/main.zip
+
